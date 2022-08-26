@@ -8,5 +8,4 @@
 <br>
 <p>You can reach me too here:</p>
 <br>
-<br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/elvisgarciac/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
