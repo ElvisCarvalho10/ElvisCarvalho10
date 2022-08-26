@@ -2,9 +2,7 @@
 
 <p> I am Elvis Carvalho, just someone who loves code, and lives doing what he loves.</p>
 <br>
-<br>
 <p>I hope you enjoy this place and we can share this passion togheter !</p>
-<br>
 <br>
 <p>You can reach me too here:</p>
 <br>
